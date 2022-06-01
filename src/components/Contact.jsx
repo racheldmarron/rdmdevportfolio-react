@@ -34,7 +34,7 @@ const Contact = () => {
         <div className="text-center text-white font-montserrat">
           <h2 className="title">Get In Touch</h2>
           <p className="text-xl font-semibold">
-            | I am here for your Product Management, QA, and Freelance
+            | I am here for your Program Management, QA, and Freelance
             Development needs |
           </p>
         </div>
