@@ -8,36 +8,38 @@ Development Portfolio for Rachel Marron- Product Manager & QA Engineer
 A professional portfolio using REACT and Tailwind CSS. This website showcases the development work I have done through the UCI Coding Bootcamp. You are able to view my projects, learn about me, and download my resume. 
 
 ## User Story
-AS AN employer looking for candidates with experience building single-page applications
-I WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT I can assess whether they're a good candidate for an open position
+<ul><li>
+AS AN employer looking for candidates with experience building single-page applications</li>
+<li>I WANT to view a potential employee's deployed React portfolio of work samples</li>
+<li>SO THAT I can assess whether they're a good candidate for an open position</li>
 
 ## Acceptance Criteria
-GIVEN a single-page application portfolio for a web developer
-WHEN I load the portfolio
-THEN I am presented with a page containing a header, a section for content, and a footer
-WHEN I view the header
-THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
-WHEN I view the navigation titles
-THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
-WHEN I click on a navigation title
-THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
-WHEN I load the portfolio the first time
-THEN the About Me title and section are selected by default
-WHEN I am presented with the About Me section
-THEN I see a recent photo or avatar of the developer and a short bio about them
-WHEN I am presented with the Portfolio section
-THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories
-WHEN I am presented with the Contact section
-THEN I see a contact form with fields for a name, an email address, and a message
-WHEN I move my cursor out of one of the form fields without entering text
-THEN I receive a notification that this field is required
-WHEN I enter text into the email address field
-THEN I receive a notification if I have entered an invalid email address
-WHEN I am presented with the Resume section
-THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
-WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
+<ul><li>
+GIVEN a single-page application portfolio for a web developer</li>
+<li>WHEN I load the portfolio</li>
+<li>THEN I am presented with a page containing a header, a section for content, and a footer</li>
+<li>WHEN I view the header</li>
+<li>THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio</li>
+<li>WHEN I view the navigation titles</li>
+<li>THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted</li>
+<li>WHEN I click on a navigation title</li>
+<li>THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted</li>
+<li>WHEN I load the portfolio the first time</li>
+<li>THEN the About Me title and section are selected by default</li>
+<li>WHEN I am presented with the About Me section</li>
+<li>THEN I see a recent photo or avatar of the developer and a short bio about them</li>
+<li>WHEN I am presented with the Portfolio section</li>
+<li>THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories</li>
+<li>WHEN I am presented with the Contact section</li>
+<li>THEN I see a contact form with fields for a name, an email address, and a message</li>
+<li>WHEN I move my cursor out of one of the form fields without entering text</li>
+<li>THEN I receive a notification that this field is required</li>
+<li>WHEN I enter text into the email address field</li>
+<li>THEN I receive a notification if I have entered an invalid email address</li>
+<li>WHEN I am presented with the Resume section</li>
+<li>THEN I see a link to a downloadable resume and a list of the developer’s proficiencies</li>
+<li>WHEN I view the footer</li>
+<li>THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)</li>
 
 ## Visual References
 
