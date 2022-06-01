@@ -58,6 +58,7 @@ Thank you to the following people/resources that helped me build this app:
 3. <a href="https://www.youtube.com/watch?v=8vQeMZbUt98">Beginner React portfolio with Taildwindcss</a>
 4. <a href="https://www.youtube.com/watch?v=bmpI252DmiI">REACT portfolio tutorial with animations</a>
 5. <a href="https://www.youtube.com/watch?v=Vp6GC3jKG20">Build & Deploy a professional portfolio with REACT and TailwindCSS</a>
+6. <a href="https://www.youtube.com/watch?v=1eXQJYL1s1k">Typewriter effect in ReactJS Tutorial</a>
 
 ## License
 
