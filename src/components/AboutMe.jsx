@@ -30,7 +30,7 @@ const Banner = () => {
 
               <span className="text-secondary">
                 <Typewriter
-                  words={["Web/App Manager", "QA Engineer", "UX Researcher"]}
+                  words={["Web & App Manager", "QA Engineer", "UX Researcher"]}
                   loop={false}
                   cursor
                   cursorStyle="_"
@@ -105,7 +105,7 @@ const Banner = () => {
                 </h2>
                 <h2 className="pb-3">
                   A dedicated eCommerce & QA professional with a passion for
-                  building accessible DTC tech. I love working with engineering
+                  building accessible DTC tech. Facilitating operational excellence, I work with engineering
                   teams and cross-functional stakeholders to enhance UX and
                   increase user acquisition and retention.
                 </h2>
