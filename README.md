@@ -1,5 +1,5 @@
 # rdmdevportfolio - REACT 
-Development Portfolio for Rachel Marron- Product Manager & QA Engineer
+Development Portfolio for Rachel Marron- Web/App Manager & QA Engineer
 
 ## Link to deployed application 
 <a href="https://racheldmarron.github.io/rdmdevportfolio-react/">https://racheldmarron.github.io/rdmdevportfolio-react/</a>
@@ -11,7 +11,7 @@ A professional portfolio using REACT and Tailwind CSS. This website showcases th
 <ul><li>
 AS AN employer looking for candidates with experience building single-page applications</li>
 <li>I WANT to view a potential employee's deployed React portfolio of work samples</li>
-<li>SO THAT I can assess whether they're a good candidate for an open position</li>
+<li>SO THAT I can assess whether they're a good candidate for an open position</li></ul>
 
 ## Acceptance Criteria
 <ul><li>
@@ -52,13 +52,15 @@ GIVEN a single-page application portfolio for a web developer</li>
 ## Contributors
 
 Thank you to the following people/resources that helped me build this app: 
-1. Jordan Hessler - Outside Tutor 
-2. Mohammed Khalid - Outside Tutor
-2. <a href="https://www.udemy.com/course/build-a-portfolio-with-reactjs/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_81829991707_._ad_532193666393_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9031562_._pd__._&matchtype=&gclid=CjwKCAjwve2TBhByEiwAaktM1LRCh4mU8R3eoCxenXbcqpnbzmyiVKc8XbSFxjRr3jbJ1y9bapmO7hoCOxoQAvD_BwE">Udemy.com - Build a portfolio with REACT.JS</a>
-3. <a href="https://www.youtube.com/watch?v=8vQeMZbUt98">Beginner React portfolio with Taildwindcss</a>
-4. <a href="https://www.youtube.com/watch?v=bmpI252DmiI">REACT portfolio tutorial with animations</a>
-5. <a href="https://www.youtube.com/watch?v=Vp6GC3jKG20">Build & Deploy a professional portfolio with REACT and TailwindCSS</a>
-6. <a href="https://www.youtube.com/watch?v=1eXQJYL1s1k">Typewriter effect in ReactJS Tutorial</a>
+<ol><li>
+Jordan Hessler - Outside Tutor</li>
+<li>Mohammed Khalid - Outside Tutor</li>
+<li><a href="https://www.udemy.com/course/build-a-portfolio-with-reactjs/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_81829991707_._ad_532193666393_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9031562_._pd__._&matchtype=&gclid=CjwKCAjwve2TBhByEiwAaktM1LRCh4mU8R3eoCxenXbcqpnbzmyiVKc8XbSFxjRr3jbJ1y9bapmO7hoCOxoQAvD_BwE">Udemy.com - Build a portfolio with REACT.JS</a></li>
+<li><a href="https://www.youtube.com/watch?v=8vQeMZbUt98">Beginner React portfolio with Taildwindcss</a></li>
+<li><a href="https://www.youtube.com/watch?v=bmpI252DmiI">REACT portfolio tutorial with animations</a><li>
+<li><a href="https://www.youtube.com/watch?v=Vp6GC3jKG20">Build & Deploy a professional portfolio with REACT and TailwindCSS</a><li>
+<li><a href="https://www.youtube.com/watch?v=1eXQJYL1s1k">Typewriter effect in ReactJS Tutorial</a></li>
+<li><a href="https://www.youtube.com/watch?v=nbHlVrkA0wk">How to add and download PDF In React.js</a></li></ol>
 
 ## License
 
