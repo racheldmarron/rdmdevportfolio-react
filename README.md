@@ -39,7 +39,7 @@ GIVEN a single-page application portfolio for a web developer</li>
 <li>WHEN I am presented with the Resume section</li>
 <li>THEN I see a link to a downloadable resume and a list of the developer’s proficiencies</li>
 <li>WHEN I view the footer</li>
-<li>THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)</li>
+<li>THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)</li></ul>
 
 ## Visual References
 
@@ -52,15 +52,15 @@ GIVEN a single-page application portfolio for a web developer</li>
 ## Contributors
 
 Thank you to the following people/resources that helped me build this app: 
-<ol><li>
+<ul><li>
 Jordan Hessler - Outside Tutor</li>
 <li>Mohammed Khalid - Outside Tutor</li>
 <li><a href="https://www.udemy.com/course/build-a-portfolio-with-reactjs/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_81829991707_._ad_532193666393_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9031562_._pd__._&matchtype=&gclid=CjwKCAjwve2TBhByEiwAaktM1LRCh4mU8R3eoCxenXbcqpnbzmyiVKc8XbSFxjRr3jbJ1y9bapmO7hoCOxoQAvD_BwE">Udemy.com - Build a portfolio with REACT.JS</a></li>
 <li><a href="https://www.youtube.com/watch?v=8vQeMZbUt98">Beginner React portfolio with Taildwindcss</a></li>
-<li><a href="https://www.youtube.com/watch?v=bmpI252DmiI">REACT portfolio tutorial with animations</a><li>
-<li><a href="https://www.youtube.com/watch?v=Vp6GC3jKG20">Build & Deploy a professional portfolio with REACT and TailwindCSS</a><li>
+<li><a href="https://www.youtube.com/watch?v=bmpI252DmiI">REACT portfolio tutorial with animations</a></li>
+<li><a href="https://www.youtube.com/watch?v=Vp6GC3jKG20">Build & Deploy a professional portfolio with REACT and TailwindCSS</a></li>
 <li><a href="https://www.youtube.com/watch?v=1eXQJYL1s1k">Typewriter effect in ReactJS Tutorial</a></li>
-<li><a href="https://www.youtube.com/watch?v=nbHlVrkA0wk">How to add and download PDF In React.js</a></li></ol>
+<li><a href="https://www.youtube.com/watch?v=nbHlVrkA0wk">How to add and download PDF In React.js</a></li></ul>
 
 ## License
 
